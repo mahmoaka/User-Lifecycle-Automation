@@ -17,5 +17,5 @@ This script automates the onboarding process for new employees using Microsoft G
 - Microsoft Graph PowerShell SDK
 - Azure AD permissions:
 - User.ReadWrite.All
-    - Group.ReadWrite.All
-    - Directory.ReadWrite.All
+- Group.ReadWrite.All
+- Directory.ReadWrite.All
