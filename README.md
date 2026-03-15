@@ -16,4 +16,3 @@ This script automates the onboarding process for new employees using Microsoft G
 - PowerShell 5.1 or 7+
 - Microsoft Graph PowerShell SDK
 - Azure AD permissions:
-# Test
